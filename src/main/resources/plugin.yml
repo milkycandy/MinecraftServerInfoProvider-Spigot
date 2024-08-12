@@ -1,0 +1,4 @@
+name: ServerStatusProvider
+version: '1.0-Preview'
+main: cn.milkycandy.serverinfoprovider.ProviderCore
+api-version: '1.21'
